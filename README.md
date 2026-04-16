@@ -1,9 +1,7 @@
 projetoFiltro, é um filtrador que fazer interligação entre o sistema WebDental (Legado) com a planilhas Sheets. Onde automatiza processos de registro de informações, utilizando cookies e OAuth 2 do Google
 
+# INSTRUÇÕES DE USO
 
-======================================================================
-			                   INSTRUÇÕES DE USO
-======================================================================
 Versão base: buscar_webdental.py
 Versão atualizada: sheets_webdental.py
 
