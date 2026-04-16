@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+thefuzz==0.22.1
+python-Levenshtein==0.25.1
+gspread==6.1.2
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
